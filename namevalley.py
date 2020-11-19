@@ -18,6 +18,9 @@ main_image_db = [
     {"image_url": "/images/blue/"},
     {"image_url": "/images/pink/"},
     {"image_url": "/images/pastel_green/"},
+    {"image_url": "/images/red/"},
+    {"image_url": "/images/green/"},
+    {"image_url": "/images/cyan/"},
 ]
 
 blue_image_db = [
