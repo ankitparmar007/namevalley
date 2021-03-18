@@ -23,7 +23,8 @@ main_image_db = [
     {"image_url": "/images/cyan/"},
 ]
 
-blue_image_db = [
+blue_image_db = {
+    "images" : [
     {"image_url": "https://i.ibb.co/f4P136b/blueback.jpg"},
     {"image_url": "https://i.ibb.co/tJDQNxX/6-blue-doll.png"},
     {"image_url": "https://i.ibb.co/GPrXvyG/5-blue-lemon.png"},
@@ -32,8 +33,10 @@ blue_image_db = [
     {"image_url": "https://i.ibb.co/CHVckVV/14-blue-pineapple.png"},
     {"image_url": "https://i.ibb.co/4F6QNF6/15-blue-pineapple2.png"},
 ]
+}
 
-pink_image_db = [
+pink_image_db = {
+    "images":[
     {"image_url": "https://i.ibb.co/zGKjp7t/7-pink-pineapple.png"},
     {"image_url": "https://i.ibb.co/RQSjMvb/8-pink-doll.png"},
     {"image_url": "https://i.ibb.co/YbbS5vW/9-pink-pineapple.png"},
@@ -41,8 +44,10 @@ pink_image_db = [
     {"image_url": "https://i.ibb.co/Gn1qcKg/17-pink-lemon2.png"},
     {"image_url": "https://i.ibb.co/h8vMNwc/18-pink-pineapple.png"},
 ]
+}
 
-pastel_green_image_db = [
+pastel_green_image_db = {
+    "images":[
     {"image_url": "https://i.ibb.co/MGSCxX7/1-pastel-donote.png"},
     {"image_url": "https://i.ibb.co/pbCd1X2/2-Pastel-melon.png"},
     {"image_url": "https://i.ibb.co/2yQ1r30/3-Pastel-banana.png"},
@@ -50,24 +55,43 @@ pastel_green_image_db = [
     {"image_url": "https://i.ibb.co/CzhQ29N/11-pgreen-pineapple.png"},
     {"image_url": "https://i.ibb.co/6HkdLZq/12-pgreen-melon.png"},
 ]
+}
 
-red_image_db = [
+
+
+
+
+red_image_db = {
+    "images":[
     {"image_url": "https://i.ibb.co/3Y2vwQX/7-red-glass.png"},
     {"image_url": "https://i.ibb.co/yRMDzGm/8-red-flower.png"},
     {"image_url": "https://i.ibb.co/RCnnjVh/9-red-ice-cream.png"},
 ]
+}
 
-green_image_db = [
+
+
+
+
+green_image_db = {
+    "images":[
     {"image_url": "https://i.ibb.co/ZWHQXQv/1-green-coco.png"},
     {"image_url": "https://i.ibb.co/ZXrzPRF/2-green-pineapple.png"},
     {"image_url": "https://i.ibb.co/5kjQMr8/3-green-pineapple2.png"},
 ]
+}
 
-cyan_image_db = [
+
+
+
+
+cyan_image_db = {
+    "images":[
     {"image_url": "https://i.ibb.co/NmsrPQ5/4-cyan-flower.png"},
     {"image_url": "https://i.ibb.co/7jCdm3F/5-cyan-watermelon.png"},
     {"image_url": "https://i.ibb.co/X4DzV6b/6-cyan-coco.png"},
 ]
+}
 
 test_image_db = [
     {"image_url": "https://i.ibb.co/f4P136b/blueback.jpg"},
